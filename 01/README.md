@@ -20,7 +20,7 @@
 
 | 知识点 | 地址 |
 | ------ | ---- |
-| LED    | [../knowledknowledge_basege/led/README.md](../knowledge_base/led/README.md) |
+| LED    | [../knowledge_base/led/README.md](../knowledge_base/led/README.md) |
 
 ## 编写 LED 常亮示例程序
 
