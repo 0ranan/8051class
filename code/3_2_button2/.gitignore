@@ -1,0 +1,22 @@
+# Keil C51 Project Files
+# Ignore compiled output files
+Listings/
+Objects/
+
+# Ignore Keil user interface configuration files
+*.uvgui.*
+
+# Ignore build logs
+*.build_log.htm
+
+# Ignore hex and lnp files (generated output)
+*.hex
+*.lnp
+
+# Keep essential project files
+!*.uvproj
+!*.uvopt
+!*.c
+!*.h
+!*.A51
+!*.gitignore
